@@ -1,2 +1,3 @@
-# YummySoft
-YummYSoft.t.me
+#    YummySoft
+
+Лучшие софты и вирусы от юмаки (или от кого то :) )
